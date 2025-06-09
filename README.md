@@ -9,12 +9,16 @@ Find my example below.
 
 # PDF files, Documentation and Examples (syntax, commonly used things)
 ## Github, Codespaces
-- [Repo, branch, and pull request creation, management and resolution](https://docs.github.com/en/get-started/start-your-journey/hello-world)
-- 
+- [GitHub lecture notes](/pdf_files/git_github/git_github.pdf)
+<!-- - [GitHub Codespaces lecture notes](/pdf_files/git_github/codespaces.pdf) -->
 ### Resources
+- [Github Registration](https://github.com/signup)
+#### Official Github Resources
+- [Repo, branch, and pull request creation, management and resolution](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 - [Getting Started with Git/Github](https://docs.github.com/en/get-started)
 - [Deploying a website with Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
+<!--
 ## HTML
 - [HTML Examples](/example_code/html/)
 
@@ -30,7 +34,7 @@ Please remember to use the examples provided in the `example_code` folder to hel
 ### Solutions
 - [HTML Mini Assignment 1 Solution](/solutions/html/mini_assignment_1.html)
 - [HTML Mini Assignment 2 Solution](/solutions/html/mini_assignment_2.html)
-<!--  -->
+
 ## CSS
 ### Mini Assignments
 Please remember to use the examples provided in the `example_code` folder to help you complete the mini assignments.
@@ -70,7 +74,7 @@ For these assignments you will be discovering the p5.js library and creating som
 - [Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Javascript Tutorial](https://www.w3schools.com/js/)
 - [p5.js Reference](https://p5js.org/reference/)
-
+-->
 # More General Resources
 - [HTML,CSS,JS and Other in W3Schools](https://www.w3schools.com/)
 - [Github Certification information](https://docs.github.com/en/get-started/showcase-your-expertise-with-github-certifications/about-github-certifications)
