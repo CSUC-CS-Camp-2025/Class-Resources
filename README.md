@@ -16,6 +16,7 @@ Find my example below.
 #### Official Github Resources
 - [Repo, branch, and pull request creation, management and resolution](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 - [Getting Started with Git/Github](https://docs.github.com/en/get-started)
+- [GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started-with-codespaces)
 - [Deploying a website with Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 <!--
