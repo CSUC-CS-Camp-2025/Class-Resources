@@ -9,8 +9,8 @@ Find my example below.
 
 # PDF files, Documentation and Examples (syntax, commonly used things)
 ## Github, Codespaces
-- [GitHub lecture notes](/pdf_files/git_github/git_github.pdf)
-<!-- - [GitHub Codespaces lecture notes](/pdf_files/git_github/codespaces.pdf) -->
+- [git and GitHub lecture notes](/pdf_files/git_github/git_github.pdf)
+- [GitHub Codespaces and Pages lecture notes](/pdf_files/git_github/codespaces_pages.pdf)
 ### Resources
 - [Github Registration](https://github.com/signup)
 #### Official Github Resources
