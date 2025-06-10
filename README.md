@@ -11,6 +11,7 @@ Find my example below.
 ## Github, Codespaces
 - [git and GitHub lecture notes](/pdf_files/git_github/git_github.pdf)
 - [GitHub Codespaces and Pages lecture notes](/pdf_files/git_github/codespaces_pages.pdf)
+- [Codespaces and Pages Guide By: Nissa] (/pdf_files/git_github/Github and Codespaces.pdf)
 ### Resources
 - [Github Registration](https://github.com/signup)
 #### Official Github Resources
