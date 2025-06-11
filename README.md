@@ -37,7 +37,7 @@ Please remember to use the examples provided in the `example_code` folder to hel
 - [HTML Mini Assignment 1 Solution](/solutions/html/mini_assignment_1.html)
 - [HTML Mini Assignment 2 Solution](/solutions/html/mini_assignment_2.html)
 
-<!--## CSS
+## CSS
 ### Mini Assignments
 Please remember to use the examples provided in the `example_code` folder to help you complete the mini assignments.
 - [CSS Mini Assignment 1](/pdf_files/CSS/mini_assignment_1.pdf)
@@ -76,7 +76,7 @@ For these assignments you will be discovering the p5.js library and creating som
 - [Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Javascript Tutorial](https://www.w3schools.com/js/)
 - [p5.js Reference](https://p5js.org/reference/)
--->
+
 # More General Resources
 - [HTML,CSS,JS and Other in W3Schools](https://www.w3schools.com/)
 - [Github Certification information](https://docs.github.com/en/get-started/showcase-your-expertise-with-github-certifications/about-github-certifications)
