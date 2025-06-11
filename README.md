@@ -11,7 +11,7 @@ Find my example below.
 ## Github, Codespaces
 - [git and GitHub lecture notes](/pdf_files/git_github/git_github.pdf)
 - [GitHub Codespaces and Pages lecture notes](/pdf_files/git_github/codespaces_pages.pdf)
-- [Codespaces and Pages Guide By: Nissa](/pdf_files/git_github/Github&nbsp; and&nbsp; Codespaces.pdf)
+- [Codespaces and Pages Guide By: Nissa](/pdf_files/git_github/Github&nbsp;and&nbsp;codespaces.pdf)
 ### Resources
 - [Github Registration](https://github.com/signup)
 #### Official Github Resources
@@ -20,7 +20,7 @@ Find my example below.
 - [GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started-with-codespaces)
 - [Deploying a website with Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
-<!--
+
 ## HTML
 - [HTML Examples](/example_code/html/)
 
@@ -36,7 +36,7 @@ Please remember to use the examples provided in the `example_code` folder to hel
 ### Solutions
 - [HTML Mini Assignment 1 Solution](/solutions/html/mini_assignment_1.html)
 - [HTML Mini Assignment 2 Solution](/solutions/html/mini_assignment_2.html)
-
+<!--
 ## CSS
 ### Mini Assignments
 Please remember to use the examples provided in the `example_code` folder to help you complete the mini assignments.
