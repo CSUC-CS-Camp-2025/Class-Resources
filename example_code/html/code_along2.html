@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Basic HTML, Tables and Forms</title>
+</head>
+
+<body>
+    <!-- ******* Instructor notes will show in comments. This only exist in the code along files.*******-->
+    <!-- For this code along take some time to go over div usage, drive the idea that organization in divs and other
+     semantic groupings is a very good practice, assigning IDs and Classes is also as important. -->
+    <header id="intro">
+        <h1>HTML Code-along 2</h1>
+        <p>This code-along will go over some Elementary topics of HTML, Some will be review Some will be new.</p>
+    </header>
+    <h2>Table</h2>
+    <table border="2">
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+        </tr>
+        <tr>
+            <td>Alice</td>
+            <td>24</td>
+        </tr>
+        <tr>
+            <td>Bob</td>
+            <td>30</td>
+        </tr>
+    </table>
+
+    <h2>Image</h2>
+    <img src="https://media.self.com/photos/57d8c2d246d0cb351c8c6350/master/w_1600%2Cc_limit/cute-kitten-running.jpg"
+        alt="Cute Kitten Running in Grass" height="100%" width="500">
+
+    <h2>Link</h2>
+    <a href="https://www.example.com" target="_blank">Visit Example.com</a>
+
+    <!-- Emphasise the idea that IDs are unique and classes are not, you should use an ID once for any given Element
+     Many elements can share the same Class The following form shows that.-->
+    <div class="forms">
+        <div id="form-1">
+        <h2>A form</h2>
+        <form action="#" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><br><br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br><br>
+
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" min="1" max="120"><br><br>
+
+            <!-- here we show that class/id uniqueness idea. -->
+            <label>Gender:</label>
+            <input type="radio" id="male" class="gender-select" name="gender" value="male">
+            <label for="male">Male</label>
+            <input type="radio" id="female" class="gender-select" name="gender" value="female">
+            <label for="female">Female</label>
+            <input type="radio" id="other" class="gender-select" name="gender" value="other">
+            <label for="other">Other</label><br><br>
+
+            <label for="country">Country:</label>
+            <select id="country" name="country">
+                <option value="usa">USA</option>
+                <option value="canada">Canada</option>
+                <option value="uk">UK</option>
+            </select><br><br>
+
+            <label for="subscribe">
+                <input type="checkbox" id="subscribe" name="subscribe" value="yes">
+                Subscribe to newsletter
+            </label><br><br>
+
+            <label for="comments">Comments:</label><br>
+            <textarea id="comments" name="comments" rows="4" cols="40"></textarea><br><br>
+
+            <input type="submit" value="Submit">
+            <input type="reset" value="Reset">
+        </form>
+        </div>
+        <div id="form-2">
+        <h2>Another form</h2>
+        <form action="#" method="get">
+            <label for="search">Search:</label>
+            <input type="text" id="search" name="search" placeholder="Type to search..."><br><br>
+
+            <label for="date">Date:</label>
+            <input type="date" id="date" name="date"><br><br>
+
+            <label for="time">Time:</label>
+            <input type="time" id="time" name="time"><br><br>
+
+            <input type="submit" value="Search">
+            <input type="reset" value="Clear">
+        </form>
+        </div>
+    </div>
+
+    <footer id="cpyrght">
+        <p>&copy; 2025 HTML Code-along</p>
+    </footer>
+</body>
+
+</html>
