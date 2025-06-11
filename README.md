@@ -11,7 +11,7 @@ Find my example below.
 ## Github, Codespaces
 - [git and GitHub lecture notes](/pdf_files/git_github/git_github.pdf)
 - [GitHub Codespaces and Pages lecture notes](/pdf_files/git_github/codespaces_pages.pdf)
-- [Codespaces and Pages Guide By: Nissa](/pdf_files/git_github/Github&nbsp;and&nbsp;codespaces.pdf)
+- [Codespaces and Pages Guide By: Nissa](/pdf_files/git_github/Github_and_codespaces.pdf)
 ### Resources
 - [Github Registration](https://github.com/signup)
 #### Official Github Resources
@@ -22,7 +22,9 @@ Find my example below.
 
 
 ## HTML
-- [HTML Examples](/example_code/html/)
+### HTML Reference
+- [Comments in HTML](example_code/html/comments.html)
+<!-- - [HTML Examples](/example_code/html/) -->
 
 ### Mini Assignments
 Please remember to use the examples provided in the `example_code` folder to help you complete the mini assignments.
