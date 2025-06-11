@@ -23,6 +23,7 @@ Find my example below.
 
 ## HTML
 ### HTML Reference
+- [HTML Lecture Notes](/pdf_files/html/HTML.pdf)
 - [HTML Examples](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/example_code/html/)
 
 ### Mini Assignments
