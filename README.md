@@ -23,21 +23,20 @@ Find my example below.
 
 ## HTML
 ### HTML Reference
-- [Comments in HTML](example_code/html/comments.html)
-<!-- - [HTML Examples](/example_code/html/) -->
+- [HTML Examples](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/example_code/html/)
 
 ### Mini Assignments
 Please remember to use the examples provided in the `example_code` folder to help you complete the mini assignments.
-- [HTML Mini Assignment 1](/pdf_files/html/mini_assignment_1.pdf)
-- [HTML Mini Assignment 2](/pdf_files/html/mini_assignment_2.pdf)
+- [HTML Mini Assignment 1](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/html/mini_assignment_1.pdf)
+- [HTML Mini Assignment 2](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/html/mini_assignment_2.pdf)
 
 ### Resources
 - [HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML Tutorial](https://www.w3schools.com/html/)
 
 ### Solutions
-- [HTML Mini Assignment 1 Solution](/solutions/html/mini_assignment_1.html)
-- [HTML Mini Assignment 2 Solution](/solutions/html/mini_assignment_2.html)
+- [HTML Mini Assignment 1 Solution](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/solutions/html/mini_assignment_1.html)
+- [HTML Mini Assignment 2 Solution](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/solutions/html/mini_assignment_2.html)
 
 <!-- ## CSS
 ### Mini Assignments
