@@ -39,12 +39,13 @@ Please remember to use the examples provided in the `example_code` folder to hel
 - [HTML Mini Assignment 1 Solution](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/solutions/html/mini_assignment_1.html)
 - [HTML Mini Assignment 2 Solution](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/solutions/html/mini_assignment_2.html)
 
-<!-- ## CSS
+## CSS
 ### Mini Assignments
 Please remember to use the examples provided in the `example_code` folder to help you complete the mini assignments.
-- [CSS Mini Assignment 1](/pdf_files/CSS/mini_assignment_1.pdf)
-- [CSS Mini Assignment 2](/pdf_files/CSS/mini_assignment_2.pdf)
+- [CSS Mini Assignment 1](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/CSS/mini_assignment_1.pdf)
+- [CSS Mini Assignment 2](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/CSS/mini_assignment_2.pdf)
 ### Resources
+- [CSS Lecture Notes](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/CSS/CSS_Lecture_Notes.pdf)
 - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS Tutorial](https://www.w3schools.com/css/)
 - [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -56,7 +57,7 @@ Please remember to use the examples provided in the `example_code` folder to hel
 - [CSS Mini Assignment 1 Solution](/solutions/css/mini_assignment_1.css)
 - [CSS Mini Assignment 2 Solution](/solutions/css/mini_assignment_2.css)
 
-## Javascript, p5.js
+<!--## Javascript, p5.js
 - [Javascript Examples](/example_code/js/)
 ### Day 1
 - [Javascript Mini Assignment 1](/pdf_files/js/mini_assignment_1.pdf)
