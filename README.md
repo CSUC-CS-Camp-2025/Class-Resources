@@ -57,12 +57,18 @@ Please remember to use the examples provided in the `example_code` folder to hel
 - [CSS Mini Assignment 1 Solution](/solutions/css/mini_assignment_1.css)
 - [CSS Mini Assignment 2 Solution](/solutions/css/mini_assignment_2.css)
 
-<!--## Javascript, p5.js
+## Javascript, p5.js
 - [Javascript Examples](/example_code/js/)
 ### Day 1
+- [Introduction to programming](/pdf_files/js/intro_programming.pdf)
+Complete the following exercises to practice your programming skills:
+  - [Bird](https://blockly.games/bird?lang=en)
+  - [Turtle](https://blockly.games/turtle?lang=en)
+  - [Maze](https://blockly.games/maze?lang=en)
+- [Introduction to Javascript](/pdf_files/js/JS_intro.pdf)
+<!-- ### Day 2
 - [Javascript Mini Assignment 1](/pdf_files/js/mini_assignment_1.pdf)
 - [Javascript Mini Assignment 2](/pdf_files/js/mini_assignment_2.pdf)
-### Day 2
 Reviewing JS and programming basics
 ### Day 3
 P5.js
@@ -74,11 +80,11 @@ For these assignments you will be discovering the p5.js library and creating som
 - [P5.js Mini Assignment 2](/pdf_files/js/mini_assignment_4.pdf)
 
 - [Javascript Mini Assignment 3](/pdf_files/js/mini_assignment_3.pdf)
-- [Javascript Mini Assignment 4](/pdf_files/js/mini_assignment_4.pdf) 
+- [Javascript Mini Assignment 4](/pdf_files/js/mini_assignment_4.pdf)  -->
 ### Resources
 - [Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Javascript Tutorial](https://www.w3schools.com/js/)
-- [p5.js Reference](https://p5js.org/reference/) -->
+- [p5.js Reference](https://p5js.org/reference/)
 
 # More General Resources
 - [HTML,CSS,JS and Other in W3Schools](https://www.w3schools.com/)
