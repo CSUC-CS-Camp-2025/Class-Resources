@@ -72,7 +72,7 @@ Complete the following exercises to practice your programming skills:
 - [Javascript Mini Assignment 1 (in console)](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/js/mini_assignment_1.pdf)
 - [Javascript Mini Assignment 2 (in console)](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/js/mini_assignment_2.pdf)
 - [Javascript Mini Assignment 3 (In Separate JS file DOM content)](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/js/Mini-Assignment_DOM.pdf)
-<!-- 
+<!---
 ### Day 3
 P5.js
 #### Examples
@@ -84,7 +84,7 @@ For these assignments you will be discovering the p5.js library and creating som
 
 - [Javascript Mini Assignment 3](/pdf_files/js/mini_assignment_3.pdf)
 - [Javascript Mini Assignment 4](/pdf_files/js/mini_assignment_4.pdf)  
--->
+--->
 ### Resources
 - [Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Javascript Tutorial](https://www.w3schools.com/js/)
