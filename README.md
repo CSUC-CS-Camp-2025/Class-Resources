@@ -72,7 +72,7 @@ Complete the following exercises to practice your programming skills:
 - [Javascript Mini Assignment 1 (in console)](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/js/mini_assignment_1.pdf)
 - [Javascript Mini Assignment 2 (in console)](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/js/mini_assignment_2.pdf)
 - [Javascript Mini Assignment 3 (In Separate JS file DOM content)](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/js/Mini-Assignment_DOM.pdf)
-<!--### Day 3
+<!-- ### Day 3
 P5.js
 #### Examples
 - [P5.js Examples](/example_code/p5js/)
