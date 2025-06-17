@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Intro to DOM</title>
+  <script src="./script.js"></script>
+</head>
+<body>
+
+  <h1 id="title">Hello, world!</h1>
+  <p>Click the button to change the title.</p>
+  <button id="change-title">Change Title</button>
+  <button id="change-color">Change Background</button>
+
+  <!-- You can have scripts in line, but its more readable in its own file.-->
+  <script>
+  // Select the title
+  let title = document.getElementById("title");
+
+  // Select the button that changes the title
+  let titleBtn = document.getElementById("change-title");
+
+  titleBtn.addEventListener("click", function () {
+    title.textContent = "Title has been changed!";
+  });
+
+  // Select the button that changes background color
+  let colorBtn = document.getElementById("change-color");
+
+  colorBtn.addEventListener("click", function () {
+    document.body.style.backgroundColor = "lightblue";
+  });
+
+  </script>
+
+
+  <style>
+    .highlight {
+      text-shadow: 2px 2px 8px #888;
+      transition: all 0.3s;
+    }
+  </style>
+
+</body>
+</html>

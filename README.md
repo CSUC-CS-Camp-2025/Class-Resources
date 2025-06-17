@@ -66,11 +66,14 @@ Complete the following exercises to practice your programming skills:
   - [Turtle](https://blockly.games/turtle?lang=en)
   - [Maze](https://blockly.games/maze?lang=en)
 - [Introduction to Javascript](/pdf_files/js/JS_intro.pdf)
-<!-- ### Day 2
-- [Javascript Mini Assignment 1](/pdf_files/js/mini_assignment_1.pdf)
-- [Javascript Mini Assignment 2](/pdf_files/js/mini_assignment_2.pdf)
+### Day 2
+- [Javascript DOM Lecture Notes](/pdf_files/js/intro_DOM_JS_HTML.pdf)
+- [JS DOM code-along](/example_code/code_alongs/JS/)
+- [Javascript Mini Assignment 1 (in console)](/pdf_files/js/mini_assignment_1.pdf)
+- [Javascript Mini Assignment 2 (in console)](/pdf_files/js/mini_assignment_2.pdf)
+- [Javascript Mini Assignment 3 (In Separate JS file DOM content)](/pdf_files/js/Mini-Assignment_DOM.pdf)
 Reviewing JS and programming basics
-### Day 3
+<!--### Day 3
 P5.js
 #### Examples
 - [P5.js Examples](/example_code/p5js/)
