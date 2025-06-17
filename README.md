@@ -9,9 +9,9 @@ Find my example below.
 
 # PDF files, Documentation and Examples (syntax, commonly used things)
 ## Github, Codespaces
-- [git and GitHub lecture notes](/pdf_files/git_github/git_github.pdf)
-- [GitHub Codespaces and Pages lecture notes](/pdf_files/git_github/codespaces_pages.pdf)
-- [Codespaces and Pages Guide By: Nissa](/pdf_files/git_github/Github_and_codespaces.pdf)
+- [git and GitHub lecture notes](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/git_github/git_github.pdf)
+- [GitHub Codespaces and Pages lecture notes](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/git_github/codespaces_pages.pdf)
+- [Codespaces and Pages Guide By: Nissa](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/git_github/Github_and_codespaces.pdf)
 ### Resources
 - [Github Registration](https://github.com/signup)
 #### Official Github Resources
@@ -23,7 +23,7 @@ Find my example below.
 
 ## HTML
 ### HTML Reference
-- [HTML Lecture Notes](/pdf_files/html/HTML.pdf)
+- [HTML Lecture Notes](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/html/HTML.pdf)
 - [HTML Examples](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/example_code/html/)
 
 ### Mini Assignments
