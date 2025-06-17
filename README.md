@@ -72,7 +72,6 @@ Complete the following exercises to practice your programming skills:
 - [Javascript Mini Assignment 1 (in console)](/pdf_files/js/mini_assignment_1.pdf)
 - [Javascript Mini Assignment 2 (in console)](/pdf_files/js/mini_assignment_2.pdf)
 - [Javascript Mini Assignment 3 (In Separate JS file DOM content)](/pdf_files/js/Mini-Assignment_DOM.pdf)
-Reviewing JS and programming basics
 <!--### Day 3
 P5.js
 #### Examples
