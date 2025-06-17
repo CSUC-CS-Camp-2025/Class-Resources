@@ -54,24 +54,24 @@ Please remember to use the examples provided in the `example_code` folder to hel
 - [CSS Grid Garden](https://cssgridgarden.com/)
 - [CSS Flexbox Froggy](https://flexboxfroggy.com/)
 ### Solutions
-- [CSS Mini Assignment 1 Solution](/solutions/css/mini_assignment_1.css)
-- [CSS Mini Assignment 2 Solution](/solutions/css/mini_assignment_2.css)
+- [CSS Mini Assignment 1 Solution](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/solutions/css/mini_assignment_1.css)
+- [CSS Mini Assignment 2 Solution](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/solutions/css/mini_assignment_2.css)
 
 ## Javascript, p5.js
-- [Javascript Examples](/example_code/js/)
+- [Javascript Examples](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/example_code/js/)
 ### Day 1
-- [Introduction to programming](/pdf_files/js/intro_programming.pdf)
+- [Introduction to programming](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/js/intro_programming.pdf)
 Complete the following exercises to practice your programming skills:
   - [Bird](https://blockly.games/bird?lang=en)
   - [Turtle](https://blockly.games/turtle?lang=en)
   - [Maze](https://blockly.games/maze?lang=en)
-- [Introduction to Javascript](/pdf_files/js/JS_intro.pdf)
+- [Introduction to Javascript](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/js/JS_intro.pdf)
 ### Day 2
-- [Javascript DOM Lecture Notes](/pdf_files/js/intro_DOM_JS_HTML.pdf)
-- [JS DOM code-along](/example_code/code_alongs/JS/)
-- [Javascript Mini Assignment 1 (in console)](/pdf_files/js/mini_assignment_1.pdf)
-- [Javascript Mini Assignment 2 (in console)](/pdf_files/js/mini_assignment_2.pdf)
-- [Javascript Mini Assignment 3 (In Separate JS file DOM content)](/pdf_files/js/Mini-Assignment_DOM.pdf)
+- [Javascript DOM Lecture Notes](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/js/Intro_DOM_JS_HTML.pdf)
+- [JS DOM code-along](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/example_code/code_alongs/JS/)
+- [Javascript Mini Assignment 1 (in console)](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/js/mini_assignment_1.pdf)
+- [Javascript Mini Assignment 2 (in console)](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/js/mini_assignment_2.pdf)
+- [Javascript Mini Assignment 3 (In Separate JS file DOM content)](https://github.com/CSUC-CS-Camp-2025/Class-Resources/tree/main/pdf_files/js/Mini-Assignment_DOM.pdf)
 <!--### Day 3
 P5.js
 #### Examples
